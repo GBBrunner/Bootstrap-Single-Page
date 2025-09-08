@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#mainHero {
+  background-image: url("../images/WebDev.jpg");
+}
+
+main {
+  height: 94vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+nav {
+  height: 6vh;
+}
+
+.offcanvas {
+  width: 18rem !important;
+}
+
+.vline {
+  border-right: rgb(222, 222, 222) 6px solid;
+}/*# sourceMappingURL=style.css.map */

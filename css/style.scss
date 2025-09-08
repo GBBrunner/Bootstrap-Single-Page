@@ -1,0 +1,23 @@
+@use 'variables' as var;
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#mainHero{
+    background-image: url("../images/WebDev.jpg");
+}
+main{
+    height:calc(100vh - 6vh);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav{
+    height:var.$NavH;
+}
+.offcanvas {
+    width: 18rem !important;
+}
+.vline{
+    border-right:var.$border;
+}
