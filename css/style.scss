@@ -21,3 +21,10 @@ nav{
 .vline{
     border-right:var.$border;
 }
+.text-purple{
+    color: var.$primary-color;
+}
+.divider{
+    gap:1rem;
+    font-size: 2rem;
+}

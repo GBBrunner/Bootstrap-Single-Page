@@ -24,4 +24,13 @@ nav {
 
 .vline {
   border-right: rgb(222, 222, 222) 6px solid;
+}
+
+.text-purple {
+  color: #bb5291;
+}
+
+.divider {
+  gap: 1rem;
+  font-size: 2rem;
 }/*# sourceMappingURL=style.css.map */
